@@ -1,0 +1,54 @@
+.imageUrl {
+  width: 180px;
+}
+.list-container {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+  justify-content: space-between;
+}
+
+.name-genre-container {
+  margin-left: 20px;
+}
+
+.heading-name {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+
+.para-genre {
+  font-family: 'Roboto';
+  color: #3b82f6;
+}
+
+.name-image-genre-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.time-icon-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.duration {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.delete-icon {
+  color: #ffffff;
+  margin-left: 30px;
+  font-size: 20px;
+}
+
+.delete-button {
+  border: none;
+  background-color: transparent;
+  margin-right: 20px;
+}
